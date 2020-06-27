@@ -7,8 +7,8 @@ Louise would like to know how different campaigns fared in relation to their lau
 Analyze the campaigns outcomes based on launch date and goals in order to achieve the optimal fundraising result in the future.
 
 ## Analysis and Challenges
-Outcomes based on Launch Date: I performed the analysis by comparing the successful theatre outcomes and failed outcomes in different launch months. 
-Outcomes based on Goals: I performed the analysis by comparing the percentage of sucessful rate and percentage failed rate according to different fundraising goals. 
+- Outcomes based on Launch Date: I performed the analysis by comparing the successful theatre outcomes and failed outcomes in different launch months. 
+- Outcomes based on Goals: I performed the analysis by comparing the percentage of sucessful rate and percentage failed rate according to different fundraising goals. 
 
 ### Analysis of Outcomes Based on Launch Date
 The number of successful outcome for the category of theatre is the highest in th month of May. Same as the number of failed outcomes.
@@ -19,6 +19,7 @@ The number of successful outcome for the category of theatre is the highest in t
 Sucess rate and failure rate has an inverse relationship. Sucess rate is the highest when the goal is less than $1000 and is the lowest when the goal is around $45,000 to $49,999.
 
 <img src="outcomes_vs_Goals.png" width="600">
+
 ### Challenges and Difficulties Encountered
 Outcomes based on Launch Date: A possible challenge is to construct the pivot table by selecting the right data.
 Outcomes based on Goals: A possible challenge is to correctly use the countifs function.
