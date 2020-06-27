@@ -12,7 +12,7 @@ Outcomes based on Goals: I performed the analysis by comparing the percentage of
 
 ### Analysis of Outcomes Based on Launch Date
 The number of successful outcome for the category of theatre is the highest in th month of May. Same as the number of failed outcomes.
-![Theater_Outcomes_vs_Launch](C:\Users\chiko\Desktop\Data Analytics\Crowdfunding Project\Resources/Theater_Outcomes_vs_Launch.png).
+![](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Sucess rate and failure rate has an inverse relationship. Sucess rate is the highest when the goal is less than $1000 and is the lowest when the goal is around $45,000 to $49,999.
