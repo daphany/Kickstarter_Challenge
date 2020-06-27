@@ -34,8 +34,8 @@ The number of failed outcome is the highest in December. One possible reason is 
 - *What can you conclude about the Outcomes based on Goals?* \
 Louise is most likely to reach her goal if her goal amount is less than $1000. On the other hand, she is least likely to reach her goal when her goal amount is between $45,000 to $49,999.
 
-- *What are some limitations of this dataset?* 
-1. There are many other factors which might affect the outcomes including number of fundraiser, their budgets and etc which none of it was considered in our dataset.
-2. Theatre Outcome Based on Launch Month: it is not fair to just compare the outcomes based on launch month since the total number of campaigns are different in each month.
+- *What are some limitations of this dataset?*  
+  1. There are many other factors which might affect the outcomes including number of fundraiser, their budgets and etc which none of it was considered in our dataset.
+  2. Theatre Outcome Based on Launch Month: it is not fair to just compare the outcomes based on launch month since the total number of campaigns are different in each month.
 - *What are some other possible tables and/or graphs that we could create?* \
 Theatre Outcome Based on Launch Month: it might be more accurate to use a dual axis chart to illustrate the outcome based on launch month VS percentage of success/failsure.
